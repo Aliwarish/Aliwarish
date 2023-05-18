@@ -1,3 +1,4 @@
+![logo](https://github.com/Aliwarish/Aliwarish/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aliwarish</h1>
 <h3 align="center">A Data Scientist from India</h3>
 
