@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/aliwarishsaifi9" target="blank"><img src="https://img.shields.io/twitter/follow/aliwarishsaifi9?logo=twitter&style=for-the-badge" alt="aliwarishsaifi9" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/d/16IG-CoX70WXDnzCOPoI1CVcXWr-8TFoL/p/1coppCNra9RRmrfpKa1pS8CdHJxFoQsHy/edit](https://sites.google.com/d/16IG-CoX70WXDnzCOPoI1CVcXWr-8TFoL/p/1coppCNra9RRmrfpKa1pS8CdHJxFoQsHy/edit)
 
 - 📫 How to reach me **aliwarishsaifi9@gmail.com**
 
